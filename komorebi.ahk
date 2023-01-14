@@ -31,6 +31,8 @@ WorkspaceName(0, 0, "I")
 
 MouseFollowsFocus(false)
 
+defaultLayout := "bsp" ; I would set this to vertical stack to be more like dwm, but for some reason the edge resize doesn't work so its bsp for now
+
 ;Make resize amount
 ResizeDelta(60)
 
@@ -43,15 +45,34 @@ monitorNumbers := [0,1]
 
 for monIndex, monnum in monitorNumbers {
     for workIndex, worknum in workspaceNumbers {
-        WorkspaceLayout(monnum, worknum, "bsp")   ; I would set this to vertical stack to be more like dwm, but for some reason the edge resize doesn't work so its bsp for now
+        WorkspaceLayout(monnum, worknum, defaultLayout)   
         WorkspacePadding(monnum, worknum, 3)
         ContainerPadding(monnum, worknum, 3)
     }
 }
 
 
+; Screen orientation checker, set layout if the screen is oriented (for my thinkpad yoga)
+vertical := false
+Loop
+{
+    if (A_ScreenWidth < A_ScreenHeight and not vertical) {
+        vertical := true
+        ChangeLayout("rows")
+
+    }
+    else if(A_ScreenWidth > A_ScreenHeight and vertical) {
+        vertical := false
+        ChangeLayout(defaultLayout)
+    }
+
+    Sleep, 500
+}
+
+
 ; Allow komorebi to start managing windows
 CompleteConfiguration()
+
 
 ; Master keys
 

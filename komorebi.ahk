@@ -11,6 +11,8 @@
 ; https://github.com/LGUG2Z/komorebi/#generating-common-application-specific-configurations
 #Include %A_ScriptDir%\komorebi.generated.ahk
 
+Sleep, 10000 ; Wait 10 seconds to make sure the komorebic service is started on start. (unfortunately it delays reload but easiest solution)
+
 ; Default to minimizing windows when switching workspaces
 WindowHidingBehaviour("hide")
 

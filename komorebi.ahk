@@ -20,14 +20,12 @@ CrossMonitorMoveBehaviour("insert")
 ; Enable hot reloading of changes to this file
 WatchConfiguration("enable")
 
-; Ensure there is 1 workspace created on monitor 0
-EnsureWorkspaces(0, 1)
+; make 6 workspaces on 2 monitors
+EnsureWorkspaces(0, 6)
+EnsureWorkspaces(1, 6)
 
 ; Configure the invisible border dimensions
 InvisibleBorders(7, 0, 14, 7)
-
-; Configure the 1st workspace
-WorkspaceName(0, 0, "I")
 
 MouseFollowsFocus(false)
 

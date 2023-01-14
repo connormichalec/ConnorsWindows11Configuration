@@ -31,7 +31,7 @@ WorkspaceName(0, 0, "I")
 
 MouseFollowsFocus(false)
 
-defaultLayout := "bsp" ; I would set this to vertical stack to be more like dwm, but for some reason the edge resize doesn't work so its bsp for now
+defaultLayout := "vertical-stack" ; vertical stack is like the dwm master stack layout
 
 ;Make resize amount
 ResizeDelta(60)
@@ -156,7 +156,15 @@ return
 ; Layout switching
 
 !t::
+ChangeLayout("vertical-stack")
+return
+
+!b::
 ChangeLayout("bsp")
+return
+
+!c::
+ChangeLayout("columns")
 return
 
 !+Space::
@@ -167,15 +175,17 @@ return
 ToggleMaximize()
 return
 
+
+; disabled because not working properly
 ; Window resizing (mfact)
 
-!h::
-ResizeAxis("horizontal", "increase")
-return
-
-!l::
-ResizeAxis("horizontal", "decrease")
-return
+; !h::
+; ResizeAxis("horizontal", "increase")
+; return
+;
+; !l::
+; ResizeAxis("horizontal", "decrease")
+; return
 
 
 

@@ -51,7 +51,6 @@ for monIndex, monnum in monitorNumbers {
     }
 }
 
-
 ; Screen orientation checker, set layout if the screen is oriented (for my thinkpad yoga)
 vertical := false
 Loop
@@ -67,6 +66,21 @@ Loop
     }
 
     Sleep, 500
+}
+
+; Make monocle act more like dwm, aka like another layout instead of toggle
+global monocleOn := false ; keep track of when monocle is on so it can be turned off when switching to other layouts. Simulates dwm behavior where monocle is a seperate layout itself
+setMonocleOff() {
+    if(monocleOn) {
+        ToggleMonocle()
+        monocleOn := false
+    }
+}
+setMonocleOn() {
+    if(not monocleOn) {
+        ToggleMonocle()
+        monocleOn := true
+    }
 }
 
 
@@ -156,14 +170,17 @@ return
 ; Layout switching
 
 !t::
+setMonocleOff()
 ChangeLayout("vertical-stack")
 return
 
 !b::
+setMonocleOff()
 ChangeLayout("bsp")
 return
 
 !c::
+setMonocleOff()
 ChangeLayout("columns")
 return
 
@@ -172,7 +189,7 @@ ToggleFloat()
 return
 
 !m::
-ToggleMaximize()
+setMonocleOn()
 return
 
 

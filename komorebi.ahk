@@ -184,6 +184,15 @@ setMonocleOff()
 ChangeLayout("columns")
 return
 
+!r::
+setMonocleOff()
+ChangeLayout("rows")
+return
+
+!e::
+setMonocleOff()
+ChangeLayout("ultrawide-vertical-stack")
+
 !+Space::
 ToggleFloat()
 return

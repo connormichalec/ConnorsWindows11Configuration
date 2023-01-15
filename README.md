@@ -11,7 +11,7 @@ Some productivity software I use in my windows install:
 * Komorebi + yasb
 * (in place of komorebi I will use zVirtualDesktop just for vanilla virtualdesktop hotkeys)
 * AutoHotKey (required for komorebi)
-* Powetoys
+* Powertoys
 * Displayfusion
 * AltDrag
 * Battery Percentage Icon (from the ms store)

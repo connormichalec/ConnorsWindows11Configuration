@@ -17,6 +17,7 @@ Some productivity software I use in my windows install:
 * Displayfusion
 * AltDrag
 * Battery Percentage Icon (from the ms store)
+* PowerPlanSwitcher (from ms store)
 * Win11DsiableRoundedCorners
 * StartAllBack
 * OneNoteGem - some features i use in onenote

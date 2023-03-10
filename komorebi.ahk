@@ -36,9 +36,9 @@ defaultLayout := "vertical-stack" ; vertical stack is like the dwm master stack 
 ;Make resize amount
 ResizeDelta(60)
 
+ActiveWindowBorder("disable")   ; this is quite buggy right now so disabling, border width not working yet specifically.
 ActiveWindowBorderColour(66, 165, 245, "single")
 ActiveWindowBorderWidth(2) 
-ActiveWindowBorder("disable")   ; this is quite buggy right now so disabling, border width not working yet specifically.
 
 workspaceNumbers := [0,1,2,3,4,5]
 monitorNumbers := [0,1]
@@ -269,18 +269,18 @@ SendToWorkspace(5)
 return
 
 
+; Monitor cycling is ideal, but it doesnt work well so this will do.
 ; Monitor focusing
 
 !,::
-CycleMonitor("left")
+FocusMonitor(0)
 return
 
 !.::
-CycleMonitor("right")
+FocusMonitor(1)
 return
 
 ; Monitor sending (again not moving, it wont follow window)
-; For some reason there is no option to cycle so this method only works with 2 monitors for now
 
 !+,::
 SendToMonitor(0)

@@ -95,7 +95,7 @@ CompleteConfiguration()
 Retile()
 return
 
-; quit komorebi to go back to normal windows floating mode temporarily
+; quit komorebi
 !+q::
 Stop()
 return
@@ -104,6 +104,11 @@ return
 !+s::
 RunWait, komorebic.exe start, , Hide
 Reload  ; Reload script because for some reason komorebi not detecting script, loads config.
+return
+
+; toggle tiling on focused workspace (acts like floating layout)
+!+t::
+ToggleTiling()
 return
 
 ; Close focused app

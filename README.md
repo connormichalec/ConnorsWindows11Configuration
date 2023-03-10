@@ -21,9 +21,11 @@ Some productivity software I use in my windows install:
 * StartAllBack
 * OneNoteGem - some features i use in onenote
 * ChrisTitusTech's Ultimate windows utility
+* On my thinkpad: Mouse Speed Switcher (because the max trackpoint sensitivity is too low for some dumbass reason, hopefully they will fix)
 
 Some other stuff i use
 * Parsec
+* WinSSHFS-GUI ( needs WINFTP, WINSSHFS) so i can have my laptop always connected
 * NoMachine (to connect to linux)
 * WinDirStat
 * 7-Zip

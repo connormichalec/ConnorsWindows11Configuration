@@ -26,8 +26,8 @@ Some productivity software I use in my windows install:
 
 Some other stuff i use
 * Parsec
-~~ WinSSHFS-GUI ( needs WINFSP, WINSSHFS) so i can have my laptop always connected ~~
-* https://github.com/syncthing/syncthing
+* <strike> WinSSHFS-GUI ( needs WINFSP, WINSSHFS) so i can have my laptop always connected </strike>
+      Use instead: https://github.com/syncthing/syncthing
 * NoMachine (to connect to linux)
 * WinDirStat
 * 7-Zip

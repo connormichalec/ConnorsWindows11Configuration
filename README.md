@@ -21,7 +21,6 @@ Some productivity software I use in my windows install:
 * StartAllBack
 * OneNoteGem - some features i use in onenote
 * ChrisTitusTech's Ultimate windows utility
-* https://github.com/builtbybel/JunkCtrl
 * On my thinkpad: Mouse Speed Switcher (because the max trackpoint sensitivity is too low for some dumbass reason, hopefully they will fix)
 
 Some other stuff i use

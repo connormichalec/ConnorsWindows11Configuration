@@ -10,8 +10,9 @@ Amethyst is another tiling window manager for windows that looked interesting an
 
 Some productivity software I use in my windows install:
 
-* Komorebi + yasb
-* (in place of komorebi I will use zVirtualDesktop just for vanilla virtualdesktop hotkeys)
+* <strike> Komorebi + yasb
+* <strike> (in place of komorebi I will use zVirtualDesktop just for vanilla virtualdesktop hotkeys)
+* instead of komorebi I am just using zvirtualdesktop and powertoys snapping as it is less buggy for now.
 * AutoHotKey (required for komorebi)
 * Powertoys
 * Displayfusion

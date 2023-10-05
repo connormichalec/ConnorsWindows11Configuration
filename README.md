@@ -11,8 +11,7 @@ Amethyst is another tiling window manager for windows that looked interesting an
 Some productivity software I use in my windows install:
 
 * <strike> Komorebi + yasb </strike>
-* <strike> (in place of komorebi I will use zVirtualDesktop just for vanilla virtualdesktop hotkeys) </strike>
-* instead of komorebi I am just using zvirtualdesktop and windows 11 snapping as it is less buggy for now. - I am using powertoys to remap the keybinds from win + left and right to the dwm keybinds i like. Not using powertoys fancyzones as I dont like not being able to easily span a window across two zones using keyboard. 
+* instead of komorebi I am just using zvirtualdesktop and windows 11 snapping as it is less buggy for now. - I am using powertoys to remap the keybinds from win + left and right to the dwm keybinds i like. Not using powertoys fancyzones as I dont like not being able to easily span a window across two zones using keyboard. - Note because my zvirtualdesktop hotkeys are win+<number> to switch to desktop, must disable file explorer launch program hotkey: https://superuser.com/questions/630112/disable-taskbar-hotkey
 * <strike> AutoHotKey (required for komorebi) </strike>
 * Powertoys
 * Displayfusion

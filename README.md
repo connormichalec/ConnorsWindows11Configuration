@@ -15,7 +15,7 @@ Some productivity software I use in my windows install:
 * instead of komorebi I am just using zvirtualdesktop and windows 11 snapping as it is less buggy for now.
     * I am using powertoys to send keystroke to remap the keybinds from win + left and right to alt+hjkl (capslock would be ideal but powertoys wont bind caps).  
     * zvirtualdesktop hotkeys are capslock+<number> to switch to desktop, capslock+alt+<number> to move window to desktop.
-    * Not using powertoys fancyzones as I dont like not being able to easily span a window across two zones using keyboard. 
+    * I also have powertoys fancyzones enabled, but use it much less than the default windows snapping, as I dont like not being able to easily span a window across two zones using keyboard. 
 * <strike> AutoHotKey (required for komorebi) </strike>
 * Displayfusion
 * AltDrag

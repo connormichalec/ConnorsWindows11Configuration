@@ -31,6 +31,8 @@ Some other stuff i use
 * <strike> WinSSHFS-GUI ( needs WINFSP, WINSSHFS) so i can have my laptop always connected </strike>
       Use instead: https://github.com/syncthing/syncthing, more specifically GUI: https://github.com/canton7/SyncTrayzor
 * NoMachine (to connect to linux)
+* Aster Multiseat (for media tv)
+* ZeroTierOne (to connect to parsec on firewalled wifi)
 * WinDirStat
 * 7-Zip
 * SpeedCrunch
@@ -46,7 +48,8 @@ Some other stuff i use
 * GIMP
 * FreeCad, KiCad, LTSpice
 * Scribus, Inkscape
-* Darktable 
+* Darktable
+* VR STUFF: Oculus, Steam, Using airlink on local wifi (well had to setup bridged access point server) but also can stream vr remotely using Sidequest with zerotier side loaded along with ALVR loaded (need to manually add the zerotier ip address in the computer settings side when pairing as opposed to the default one)
 * Audacity, Ableton
 * VoiceMeter Potato
 * Equalizer APO + PEACE

@@ -18,7 +18,8 @@ Some productivity software I use in my windows install:
 * <strike> AutoHotKey (required for komorebi) </strike>
 * <strike> Win11DsiableRoundedCorners </strike>
 * Powertoys
-  * One really useful function is the keyboard remapper. I am using it to remap alt + shift + c to send alt f4 to close windows easily.
+  * One really useful function is the keyboard remapper. I am using it to remap alt + shift + c to send alt f4 to close windows easily. 
+ * Other things i use it for: AlwaysOnTop, Peek, FileExplorerAddons
 * ZVirtualDesktop
    * zvirtualdesktop hotkeys are capslock+<number> to switch to desktop, capslock+alt+<number> to move window to desktop.
 * **AltSnap** 👌👌👌 https://github.com/RamonUnch/AltSnap

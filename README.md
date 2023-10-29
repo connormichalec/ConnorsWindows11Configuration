@@ -1,10 +1,12 @@
-These are all my dotfiles used for configuring windows to my liking. I use komorebi and yasb to get a tiling window manager experience similar to dwm. 
+These are all my dotfiles used for configuring windows to my liking. <strike> I use komorebi and yasb to get a tiling window manager experience similar to dwm.
 
 Install Koromebi and Yasb, shortcut their configs to the respective files in this folder. - yasb doesn't detect shortcutted config for some reason.
 
 Tip: To avoid yasb from opening a python console in case of shell:startup autostarting the script, rename main.py to main.pyw.
 
-Amethyst is another tiling window manager for windows that looked interesting and seems more automatic (and way easier to setup).
+Amethyst is another tiling window manager for windows that looked interesting and seems more automatic (and way easier to setup). </strike>
+
+I primarily use AltSnap for all my window management needs
 
 ### Software
 

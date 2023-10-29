@@ -14,7 +14,7 @@ Some productivity software I use in my windows install:
 * Powertoys
 * ZVirtualDesktop
    * zvirtualdesktop hotkeys are capslock+<number> to switch to desktop, capslock+alt+<number> to move window to desktop.
-* <bold> AltSnap </bold>
+* **AltSnap**
    * I am using AltSnap (github fork of AltDrag) as my main window snapping tool as it seems better than using powertoys snap zones as well as the default windows snapping due to being able to alt drag and assign key shortcuts especially for hjkl. The altsnap window resizing is also super amazing especialyl because it works across two windows next to each other like dwm.
 * <strike> AutoHotKey (required for komorebi) </strike>
 * Displayfusion

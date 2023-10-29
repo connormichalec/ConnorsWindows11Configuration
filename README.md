@@ -12,13 +12,12 @@ Some productivity software I use in my windows install:
 
 * <strike> Komorebi + yasb </strike>
 * Powertoys
-* instead of komorebi I am just using zvirtualdesktop and windows 11 snapping as it is less buggy for now.
-    * I am using powertoys to send keystroke to remap the keybinds from win + left and right to alt+hjkl (capslock would be ideal but powertoys wont bind caps).  
+* I am using AltSnap (github fork of AltDrag) as my main window snapping tool as it seems better than using powertoys snap zones as well as the default windows snapping due to being able to alt drag and assign key shortcuts especially for hjkl.
+    * <strike> I am using powertoys to send keystroke to remap the keybinds from win + left and right to alt+hjkl (capslock would be ideal but powertoys wont bind caps).  </strike>
     * zvirtualdesktop hotkeys are capslock+<number> to switch to desktop, capslock+alt+<number> to move window to desktop.
-    * I also have powertoys fancyzones enabled, but use it much less than the default windows snapping, as I dont like not being able to easily span a window across two zones using keyboard. 
 * <strike> AutoHotKey (required for komorebi) </strike>
 * Displayfusion
-* <strike>AltDrag</strike>
+* <strike>AltDrag</strike> AltSnap
 * Battery Percentage Icon (from the ms store)
 * <strike> Win11DsiableRoundedCorners </strike>
 * StartAllBack

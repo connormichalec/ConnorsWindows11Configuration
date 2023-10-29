@@ -12,6 +12,7 @@ Some productivity software I use in my windows install:
 
 * <strike> Komorebi + yasb </strike>
 * Powertoys
+* ZVirtualDesktop
 * I am using AltSnap (github fork of AltDrag) as my main window snapping tool as it seems better than using powertoys snap zones as well as the default windows snapping due to being able to alt drag and assign key shortcuts especially for hjkl.
     * <strike> I am using powertoys to send keystroke to remap the keybinds from win + left and right to alt+hjkl (capslock would be ideal but powertoys wont bind caps).  </strike>
     * zvirtualdesktop hotkeys are capslock+<number> to switch to desktop, capslock+alt+<number> to move window to desktop.

@@ -25,7 +25,7 @@ Some productivity software I use in my windows install:
 * ChrisTitusTech's Ultimate windows utility
 * On my thinkpad: Mouse Speed Switcher (because the max trackpoint sensitivity is too low for some dumbass reason, hopefully they will fix)
 * <strike> WinSSHFS-GUI ( needs WINFSP, WINSSHFS) so i can have my laptop always connected </strike> - now using synctrayzor, WAY better
-* SyncTrayzor for syncing my laptop to desktop folders. https://github.com/syncthing/syncthing, more specifically GUI: https://github.com/canton7/SyncTrayzor
+* SyncThing for syncing my laptop to desktop folders. https://github.com/syncthing/syncthing, more specifically GUI SyncTrayzor: https://github.com/canton7/SyncTrayzor
 
 Some other stuff i use
 * Parsec

@@ -18,7 +18,7 @@ Some productivity software I use in my windows install:
     * I also have powertoys fancyzones enabled, but use it much less than the default windows snapping, as I dont like not being able to easily span a window across two zones using keyboard. 
 * <strike> AutoHotKey (required for komorebi) </strike>
 * Displayfusion
-* AltDrag
+* <strike>AltDrag</strike>
 * Battery Percentage Icon (from the ms store)
 * <strike> Win11DsiableRoundedCorners </strike>
 * StartAllBack

@@ -76,7 +76,7 @@ Some other stuff i use
 
 [Alt] + [Shift] + [Right drag] - Resize window RESIZE bordering zone windows
 
-[Alt] + [Right click]          - Maximize window (configured under Long drag-free in altsnap)
+[Alt] + [Right click]          - Maximize window/Unmaximize (configured under Long drag-free in altsnap)
 
 
 

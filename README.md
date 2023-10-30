@@ -59,3 +59,18 @@ Some other stuff i use
 * <strike> VoiceMeter Potato </strike>
 * <strike> Equalizer APO + PEACE </strike>
 * Ext2Fsd
+
+# Mah keybinds for things:
+
+[Caps] + [Number]              - Switch to desktop # (windows virtual desktops)
+[Caps] + [Alt] + [Number]      - Move window to desktop #
+[Alt] + [Shift] + c            - Close current window
+[Alt] + [Left drag]            - Move window around
+[Alt] + [Right drag]           - Resize window
+[Alt] + [Shift] + [Left drag]  - Move window SNAP to zone
+[Alt] + [Shift] + [Right drag] - Resize window RESIZE bordering zone windows
+[Alt] + [Right click]          - Maximize window (configured under Long drag-free in altsnap)
+
+
+
+

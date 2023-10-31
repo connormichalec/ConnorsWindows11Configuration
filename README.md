@@ -47,9 +47,9 @@ Some other stuff i use
 * Vscode
 * VR STUFF: Oculus, Steam, Using airlink on local wifi (well had to setup bridged access point server) but also can stream vr remotely using Sidequest with zerotier side loaded along with ALVR loaded (need to manually add the zerotier ip address in the computer settings side when pairing as opposed to the default one)
 * Audacity, Ableton
-* <strike> VoiceMeter Potato </strike>
-* <strike> Equalizer APO + PEACE </strike>
 * Ext2Fsd
+* <strike> VoiceMeter Potato </strike>
+* <strike> Equalizer APO + PEACE </strike> (EQ is cringe just vibe with the headphones engineered response)
   
 Also sum good software occasionally I use for fun/hobbies:
 * FreeCad, KiCad, LTSpice

@@ -24,6 +24,7 @@ Some productivity software I use in my windows install:
    * zvirtualdesktop hotkeys are capslock+<number> to switch to desktop, capslock+alt+<number> to move window to desktop.
 * **AltSnap** 👌👌👌 https://github.com/RamonUnch/AltSnap
    * I am using AltSnap (github fork of AltDrag) as my main window snapping tool as it seems better than using powertoys snap zones as well as the default windows snapping due to being able to alt drag and assign key shortcuts especially for hjkl. The altsnap window resizing is also super amazing especially because it works across two windows next to each other like dwm. It also lets you span a window across two zones easily by placing window in middle of them. Being able to selectively maximize a window quickly (like monocole) and it returnign easily to its place is also super good.
+   * Some windows are buggy - elevate directly to adminstrator privileges
 * Displayfusion
 * StartAllBack
 * Battery Percentage Icon (from the ms store)

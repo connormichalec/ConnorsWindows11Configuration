@@ -43,23 +43,25 @@ Some other stuff i use
 * SpeedCrunch
 * Onenote
 * Firefox
-* Discord
 * Onenote
-* MultiMc
-* Obs
 * Vscode
-* Davinci Resolve
-* Blender
-* GIMP
-* FreeCad, KiCad, LTSpice
-* Scribus, Inkscape
-* Darktable
 * VR STUFF: Oculus, Steam, Using airlink on local wifi (well had to setup bridged access point server) but also can stream vr remotely using Sidequest with zerotier side loaded along with ALVR loaded (need to manually add the zerotier ip address in the computer settings side when pairing as opposed to the default one)
 * Audacity, Ableton
 * <strike> VoiceMeter Potato </strike>
 * <strike> Equalizer APO + PEACE </strike>
 * Ext2Fsd
-
+  
+Also sum good software occasionally I use for fun/hobbies:
+* FreeCad, KiCad, LTSpice
+* Scribus, Inkscape
+* GIMP
+* Darktable
+* MultiMc
+* Obs
+* Davinci Resolve
+* Blender
+* Discord
+  
 # Mah keybinds for things:
 
 [Caps] + [Number]              - Switch to desktop # (windows virtual desktops)

@@ -69,7 +69,7 @@ Also sum good software occasionally I use for fun/hobbies:
 
 [Caps] + [Number]              - Switch to desktop # (windows virtual desktops)
 
-[Caps] + [Alt] + [Number]      - Move window to desktop #
+[Caps] + Q, W, ...to O      - Move window to desktop # and follow
 
 [Alt] + [Shift] + c            - Close current window
 

@@ -20,9 +20,10 @@ Some productivity software I use in my windows install:
 * Powertoys
   * One really useful function is the keyboard remapper. I am using it to remap alt + shift + c to send alt f4 to close windows easily. 
  * Other things i use it for: AlwaysOnTop, Peek, FileExplorerAddons
-* ZVirtualDesktop
-   * zvirtualdesktop hotkeys are capslock+<number> to switch to desktop, capslock+alt+<number> to move window to desktop.
-* **AltSnap** 👌👌👌 https://github.com/RamonUnch/AltSnap
+* <strike> ZVirtualDesktop
+   * zvirtualdesktop hotkeys are capslock+<number> to switch to desktop, capslock+alt+<number> to move window to desktop.</strike>
+* https://github.com/pmb6tz/windows-desktop-switcher For caps lock desktop switching 
+* **AltSnap** https://github.com/RamonUnch/AltSnap
    * I am using AltSnap (github fork of AltDrag) as my main window snapping tool as it seems better than using powertoys snap zones as well as the default windows snapping due to being able to alt drag and assign key shortcuts especially for hjkl. The altsnap window resizing is also super amazing especially because it works across two windows next to each other like dwm. It also lets you span a window across two zones easily by placing window in middle of them. Being able to selectively maximize a window quickly (like monocole) and it returnign easily to its place is also super good.
    * Some windows are buggy - elevate directly to adminstrator privileges
 * Displayfusion

@@ -29,7 +29,7 @@ Some productivity software I use in my windows install:
 * Displayfusion
 * StartAllBack
 * Battery Percentage Icon (from the ms store)
-* OneNoteGem - some features i use in onenote
+* OneMark - for inline markdown and code blocks in OneNote for notetaking
 * ChrisTitusTech's Ultimate windows utility
 * On my thinkpad: Mouse Speed Switcher (because the max trackpoint sensitivity is too low for some dumbass reason, hopefully they will fix)
 * <strike> WinSSHFS-GUI ( needs WINFSP, WINSSHFS) so i can have my laptop always connected </strike> - now using synctrayzor, WAY better

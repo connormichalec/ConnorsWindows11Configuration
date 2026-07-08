@@ -38,6 +38,8 @@ Some productivity software I use in my windows install:
 
 Some other stuff i use
 * Parsec
+* PDFGear
+* Spacedesk w/ ipad mini
 * NoMachine (to connect to linux)
 * Aster Multiseat (for media tv)
 * ZeroTierOne (to connect to parsec on firewalled wifi)

@@ -35,6 +35,7 @@ Some productivity software I use in my windows install:
 * <strike> WinSSHFS-GUI ( needs WINFSP, WINSSHFS) so i can have my laptop always connected </strike> - now using synctrayzor, WAY better
 * SyncThing for syncing my laptop to desktop folders. https://github.com/syncthing/syncthing, more specifically GUI SyncTrayzor: https://github.com/canton7/SyncTrayzor
 * Setup windows snipping tool as a shortcut and pin to taskbar for easy screenshots in tablet mode: https://winaero.com/add-screen-snip-taskbar-windows-10/
+* https://github.com/pmb6tz/windows-desktop-switcher
 
 Some other stuff i use
 * Parsec
